@@ -1,0 +1,27 @@
+[
+
+    {
+        "id":"1",
+        "product":"laptop",
+        "price":"78000"
+    },
+    
+    {
+        "id":"2",
+        "product":"notebook",
+        "price":"48000"
+    },
+    
+    {
+        "id":"3",
+        "product":"desktop",
+        "price":"120000"
+    },
+    
+    {
+        "id":4,
+        "product":"gaming",
+        "price":"85000"
+    }
+    
+]
